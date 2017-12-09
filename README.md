@@ -1,5 +1,5 @@
-# Aktienkurse
+# StocksCalculator
 Online application written on java.
-This app parses data of different companies from database using YahooFinance app.
+This app parses data of different companies from database using YahooFinanceApi.
 With this data, application makes some economical calculations and put them in database. 
 This information updates automatically all the time so user gets recently data about companies.
